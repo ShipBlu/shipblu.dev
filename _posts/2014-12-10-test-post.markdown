@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2021-08-01
+---
+
+<p class="intro"><span class="dropcap">W</span>e delivered out first package on Sunday August 1st, 2021. This has been our software engineers' moment of euphoria. It feels amazing to see something we have built generating actual business value, and that our first customer was happy with it.
+</p>
+
+
+-- Our 3-Person Engineering Team

@@ -1,0 +1,32 @@
+title: ShipBlu Engineering
+description: Optimizing logistics for a shopper-focused e-commerce experience
+
+url: https://shipblu.dev
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Blog
+    url: /articles
+  - title: About
+    url: /about
+
+social:
+  github: ShipBlu
+  twitter: _shipblu
+  facebook: ShipBlu
+  email: tech@shipblu.com
+  linkedin: ShipBlu
+
+google_analytics: "G-XKGC3DFK8Z"
+
